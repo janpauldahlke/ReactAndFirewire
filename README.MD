@@ -10,3 +10,5 @@
 - `npm install`
 - `npm start`
 - `localhost:8080`
+
+# here we will use and test reux-thunk as dispatcher
